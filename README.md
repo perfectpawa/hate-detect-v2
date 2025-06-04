@@ -1,5 +1,4 @@
 ## Setup venv
-
 chmod +x setup.sh
 ./setup.sh
 
